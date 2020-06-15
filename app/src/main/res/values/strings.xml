@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">bluetoothPt</string>
+    <string name="btn_search_blt">Search Bluetooth Device</string>
 </resources>

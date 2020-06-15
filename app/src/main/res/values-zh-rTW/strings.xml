@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth裝置</string>
+    <string name="btn_search_blt">搜尋藍芽裝置</string>
+</resources>
